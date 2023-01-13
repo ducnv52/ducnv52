@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm DucNv</h1>
 <h3 align="center">I'm a unity game developer</h3>
 <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+
 - 🔭 I graduated from [University of Engineering and Technology (UET),  Vietnam National University, Hanoi (VNU)](https://uet.vnu.edu.vn/)
 
 - 👯 ??
@@ -10,23 +11,23 @@
 
 - 👨‍💻 ??
 ### 👨‍💻 Project Game Unity
-<details><summary>I developed the game: Party Prank: Drink Challenge</summary>
+<details><summary>I developed the game <b>Party Prank: Drink Challenge</b></summary>
 
 - Android [Link Google Store](https://play.google.com/store/apps/details?id=com.Gamee.PartyPrankChallenge&hl=en)
 - Ios [Link Apple Store](https://apps.apple.com/app/id1631497447?fbclid=IwAR1Z3z22adVeAOLo11Ls9eQrJdpJ1DgY1KaRZnCf_npnKtRRtgs4Pk6JzJI)
 
 </details>
-<details><summary>I did maintenance on the game Water Sort: Element Monster</summary>
+<details><summary>I did maintenance on the game <b>Water Sort: Element Monster</b></summary>
 
 - Android [Link Google Store](https://play.google.com/store/apps/details?id=com.gamee.elementsort&hl=en)
 
 </details>
-<details><summary>I developed the game: Rainbow Alphabet Escape 3D</summary>
+<details><summary>I developed the game <b>Rainbow Alphabet Escape 3D</b></summary>
 
 - Android [Link Google Store](https://play.google.com/store/apps/details?id=com.gamee.blue.monster.rainbow.escape&hl=en)
 
 </details>
-<details><summary>I developed with the game team: Pull Pin Out 3D</summary>
+<details><summary>I developed with the game team <b>Pull Pin Out 3D</b></summary>
 
 - Android [Link Google Store](https://play.google.com/store/apps/details?id=com.gamee.pull.pin.puzzle&hl=en)
 - Ios [Link Apple Store](https://apps.apple.com/us/app/pull-pin-out-3d/id6443933564)
