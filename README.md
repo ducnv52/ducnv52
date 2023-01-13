@@ -8,6 +8,13 @@
 - 🤝 I developed the game [Rainbow Alphabet Escape 3D](https://play.google.com/store/apps/details?id=com.gamee.blue.monster.rainbow.escape&hl=en)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ducnv52](https://github.com/ducnv52)
+### 👨‍💻 Project
+<details><summary>I developed the game: Party Prank: Drink Challenge</summary>
+<p>
+- Android [Link Google Store: ](https://play.google.com/store/apps/details?id=com.Gamee.PartyPrankChallenge&hl=en)
+- Ios [Link Apple Store: ] (https://apps.apple.com/app/id1631497447?fbclid=IwAR1Z3z22adVeAOLo11Ls9eQrJdpJ1DgY1KaRZnCf_npnKtRRtgs4Pk6JzJI)
+</p>
+</details>
 
 - 📫 How to reach me **: ducnv.cntt0502@gmail.com**
 
