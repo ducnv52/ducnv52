@@ -13,30 +13,36 @@
 
 - 🤝 I am working at [Gamee Studio Company](https://gameestudio.com/)
 
-- 👨‍💻 Target: Develop many good game products on unity platform
-- ⚡ My strengths: Sociable, funny but always serious at work, good teamwork, always ready to work overtime when needed
+- 👨‍💻 Target: **Develop many good game products on unity platform**
+
+- ⚡ My strengths: **Sociable, funny but always serious at work, good teamwork, always ready to work overtime when needed**
 
 - ⚡ Fun fact **: I'm an introvert but I love to sing**
 
 ### 👨‍💻 Project Game Unity
 <details><summary>I developed the game <b>Party Prank: Drink Challenge</b></summary>
-
+  
+![image](https://play-lh.googleusercontent.com/SsMmlio3zgorgJ_6Uip_EdBE2I_WVKaoftiKWZAYHk2rwGbF97j5Bpm2oGymaCwiIi0=w240-h480-rw)
+  
 - Android [Link Google Store](https://play.google.com/store/apps/details?id=com.Gamee.PartyPrankChallenge&hl=en)
 - Ios [Link Apple Store](https://apps.apple.com/app/id1631497447?fbclid=IwAR1Z3z22adVeAOLo11Ls9eQrJdpJ1DgY1KaRZnCf_npnKtRRtgs4Pk6JzJI)
 
 </details>
 <details><summary>I did maintenance on the game <b>Water Sort: Element Monster</b></summary>
 
+![image](https://play-lh.googleusercontent.com/Ul2voFT2HWoBhvpHeXwqIIN7lk5ziDYDNo0K8VeiaRIHdqk-3mGebpH7AN4jIFMQy2PT=s48-rw)
 - Android [Link Google Store](https://play.google.com/store/apps/details?id=com.gamee.elementsort&hl=en)
 
 </details>
 <details><summary>I developed the game <b>Rainbow Alphabet Escape 3D</b></summary>
 
+![image](https://play-lh.googleusercontent.com/XKVCtxX_Ws4ksCo18hXieSoeOkoKvZ34CQ07j3-H2AH8b1BLH6WnVPT1F3qGHY8GAbo=w240-h480-rw)
 - Android [Link Google Store](https://play.google.com/store/apps/details?id=com.gamee.blue.monster.rainbow.escape&hl=en)
 
 </details>
 <details><summary>I developed with the game team <b>Pull Pin Out 3D</b></summary>
-
+  
+![image](https://play-lh.googleusercontent.com/KeqO81pupo8jvmHxowXYdnLDqGDG58na8H__xVWpeVfURtb3bebnYkWi45plE7YejcQ=s48-rw)
 - Android [Link Google Store](https://play.google.com/store/apps/details?id=com.gamee.pull.pin.puzzle&hl=en)
 - Ios [Link Apple Store](https://apps.apple.com/us/app/pull-pin-out-3d/id6443933564)
 
