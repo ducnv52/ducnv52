@@ -21,14 +21,16 @@
 
 
 ### ✏️ Core build game (Scriptable architecture)
-<details><summary>⬇️ Sunflower [Package support build game unity]</summary>
+<details><summary>⬇️ Use scriptable architecture</summary>
 
-- Source code [Link gitHub](https://github.com/VirtueSky/sunflower)
+- [Core package (sunflower)](https://github.com/VirtueSky/sunflower)
+- [Project implement (Thebeginning)](https://github.com/VirtueSky/TheBeginning)
 
 </details>
-<details><summary>⬇️ The Beginning [Game Base use (sunflower - Scriptable architecture)]</summary>
+<details><summary>⬇️ Use singleton</summary>
 
-- Source code [Link gitHub](https://github.com/VirtueSky/TheBeginning)
+- [Core package (unity-common)](https://github.com/wolf-package/unity-common)
+- [Project implement (Thebeginning_2)](https://github.com/VirtueSky/TheBeginning_2)
 
 </details>
 
